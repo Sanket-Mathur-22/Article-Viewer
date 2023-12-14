@@ -18,6 +18,6 @@ samples, guidance on mobile development, and a full API reference.
 # Screenshots
 <p float="left">
   <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/52b4f556-4137-48cb-bc51-de6c4770964a" width="320" height="680" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/52b4f556-4137-48cb-bc51-de6c4770964a" width="320" height="680" />
 </p>
