@@ -45,6 +45,7 @@ samples, guidance on mobile development, and a full API reference.
 <br>
 <br>
 <p float="left">
-  <img src="https://drive.google.com/file/d/1AKhyLh9X07GZNIRWkd-Ttla5ki1kezSl/view?usp=sharing" width="320" height="700" />
+  <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/be341334-d305-4300-a916-913dc9f54c31
+" width="320" height="700" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
