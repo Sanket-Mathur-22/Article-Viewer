@@ -35,3 +35,10 @@ samples, guidance on mobile development, and a full API reference.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/36666c46-86a7-42b7-8202-5d81d8dda3ed" width="320" height="700" />
 </p>
+<br>
+<br>
+<p float="left">
+  <img src="https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/82311903-ff16-45b3-8747-f05ef975d09b" width="320" height="700" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/133e7bad-adba-4922-8255-428c294cb6e1" width="320" height="700" />
+</p>
