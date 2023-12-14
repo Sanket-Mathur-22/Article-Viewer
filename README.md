@@ -19,5 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 <p float="left">
   <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/52b4f556-4137-48cb-bc51-de6c4770964a" width="320" height="680" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/84e3350c-69f0-4030-907b-bed48d63ac30" width="320" height="680" />
+</p>
+<br>
+<br>
+<p float="left">
   <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/52b4f556-4137-48cb-bc51-de6c4770964a" width="320" height="680" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Sanket-Mathur-22/Article-Viewer/assets/88501631/84e3350c-69f0-4030-907b-bed48d63ac30" width="320" height="680" />
 </p>
