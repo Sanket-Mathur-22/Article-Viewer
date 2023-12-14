@@ -42,3 +42,9 @@ samples, guidance on mobile development, and a full API reference.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Sanket-Mathur-22/Quick-Jot/assets/88501631/133e7bad-adba-4922-8255-428c294cb6e1" width="320" height="700" />
 </p>
+<br>
+<br>
+<p float="left">
+  <img src="https://drive.google.com/file/d/1AKhyLh9X07GZNIRWkd-Ttla5ki1kezSl/view?usp=sharing" width="320" height="700" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
